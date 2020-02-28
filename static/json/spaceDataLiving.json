@@ -1,0 +1,23 @@
+{
+    "title": "生活空间",
+    "route": "/kalkin/living",
+    "desc": "人生聚散离合，就是缘来缘尽，生活是一件艺术品，每个人都有自己认为最美的一笔，每个人也都有认为不尽如人意的一笔，人没有最好，有德天地高，人生有尺，做人有度。 淡淡的日子淡然地过。生活如水，人生似茶，再好的茶放到水中一泡，时间久了，也就淡了。也许是棱角平了，或许是成熟稳重了，脚步越来越踏实，日子越来越平淡。",
+    "imgMsg": [
+        {
+            "path": "../static/img/card_1.png"
+        },
+        {
+            "path": "../static/img/card_2.png"
+        },
+        {
+            "path": "../static/img/card_3.png"
+        },
+        {
+            "path": "../static/img/card_4.png"
+        },
+        {
+            "path": "../static/img/card_5.png"
+        }
+    ],
+    "otherMsg": "this is a context about other message."
+}

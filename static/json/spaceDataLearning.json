@@ -1,0 +1,23 @@
+{
+    "title": "学习空间",
+    "route": "/kalkin/learning",
+    "desc": "其实每个人都是在不断学习的过程中成长起来的。 生活本来就是酸甜苦辣，各种滋味的混合，爱学习的人孜孜不倦，品味着学习的甘甜；不爱学习的人倦怠不已，感受着生活的辛酸。 学习的目的不仅仅在于提高自身的工资待遇，更重要的是提高自己的学习能力、知识储备和文化涵养，成为一个有人格魅力人。",
+    "imgMsg": [
+        {
+            "path": "../static/img/card_1.png"
+        },
+        {
+            "path": "../static/img/card_2.png"
+        },
+        {
+            "path": "../static/img/card_3.png"
+        },
+        {
+            "path": "../static/img/card_4.png"
+        },
+        {
+            "path": "../static/img/card_5.png"
+        }
+    ],
+    "otherMsg": "this is a context about other message."
+}

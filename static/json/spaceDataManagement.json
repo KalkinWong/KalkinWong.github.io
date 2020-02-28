@@ -1,0 +1,23 @@
+{
+    "title": "管理空间",
+    "route": "/kalkin/management",
+    "desc": "《礼记·中庸》中说，凡事预则立，不预则废。 在现实生活中，合理地制定计划可以使我们的生活更有秩序，更有节奏。 合理地做好时间管理，人生规划，学习计划等等，已经如何合理的利用好这个空间，还需要不断勉励前行……",
+    "imgMsg": [
+        {
+            "path": "../static/img/card_1.png"
+        },
+        {
+            "path": "../static/img/card_2.png"
+        },
+        {
+            "path": "../static/img/card_3.png"
+        },
+        {
+            "path": "../static/img/card_4.png"
+        },
+        {
+            "path": "../static/img/card_5.png"
+        }
+    ],
+    "otherMsg": "this is a context about other message."
+}

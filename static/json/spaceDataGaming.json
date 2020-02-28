@@ -1,0 +1,23 @@
+{
+    "title": "娱乐空间",
+    "route": "/kalkin/gaming",
+    "desc": "懂得享受人生的人必然也有自己的些许小爱好，比如女孩子的衣服包包，男生珍藏的游戏。 工作之余，或心情低落的时候，或索然无味的时候，打开电脑，在自己的个人世界中感受游戏的快乐。 当然，娱乐，绝不仅仅限于游戏。节假日约上三五好友爬爬山，逛逛公园，或者去唱歌，看电影，都是非常不错的，无论之前的心情如何低落孤独，这种时刻，一切都烟消云散，开心最重要~",
+    "imgMsg": [
+        {
+            "path": "../static/img/card_1.png"
+        },
+        {
+            "path": "../static/img/card_2.png"
+        },
+        {
+            "path": "../static/img/card_3.png"
+        },
+        {
+            "path": "../static/img/card_4.png"
+        },
+        {
+            "path": "../static/img/card_5.png"
+        }
+    ],
+    "otherMsg": "this is a context about other message."
+}

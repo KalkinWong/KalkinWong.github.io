@@ -1,0 +1,23 @@
+{
+    "title": "工作空间",
+    "route": "/kalkin/working",
+    "desc": "世界上绝大多数的人毕业之后都将长期以工作的形式存在，不仅仅是自身活着，更是在社会中活着，实现自身的个人价值和社会价值。 古人云：\"业精于勤荒于嬉；行成于思毁于随\"。特别是IT这样的行业，知识和技能更新很快，稍有懈怠，就如逆水行舟，不进则退。",
+    "imgMsg": [
+        {
+            "path": "../static/img/card_work_space_1.png"
+        },
+        {
+            "path": "../static/img/card_work_space_2.png"
+        },
+        {
+            "path": "../static/img/card_work_space_3.png"
+        },
+        {
+            "path": "../static/img/card_work_space_4.png"
+        },
+        {
+            "path": "../static/img/card_work_space_5.png"
+        }
+    ],
+    "otherMsg": "this is a context about other message."
+}
